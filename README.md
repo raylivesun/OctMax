@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html><!-- Created by GNU Texinfo 7.0.3, https://www.gnu.org/software/texinfo/ --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Top (GNU Octave (version 8.4.0))</title>
 
 <meta name="description" content="Top (GNU Octave (version 8.4.0))">
 <meta name="keywords" content="Top (GNU Octave (version 8.4.0))">
@@ -22,7 +21,6 @@ ul.toc-numbered-mark {list-style: none}
 <link rel="stylesheet" type="text/css" href="README_files/octave.css">
 
 
-<script type="text/javascript" src="README_files/version_check.js"></script>
 </head>
 
 <body lang="en">
