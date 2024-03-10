@@ -13,11 +13,6 @@
 <link href="https://docs.octave.org/latest/Concept-Index.html" rel="index" title="Concept Index">
 <link href="#SEC_Contents" rel="contents" title="Table of Contents">
 <link href="https://docs.octave.org/latest/Preface.html" rel="next" title="Preface">
-<style type="text/css">
-<!--
-ul.toc-numbered-mark {list-style: none}
--->
-</style>
 <link rel="stylesheet" type="text/css" href="README_files/octave.css">
 
 
